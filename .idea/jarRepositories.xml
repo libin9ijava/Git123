@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="5f79337e-8023-4501-bc7f-3f409ee3546f" />
+      <option name="name" value="5f79337e-8023-4501-bc7f-3f409ee3546f" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="87c062b7-5ae4-43dc-a9a2-f1ac594e402e" />
+      <option name="name" value="87c062b7-5ae4-43dc-a9a2-f1ac594e402e" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="397bedde-f8d1-4523-ac4c-0ae8bf974602" />
+      <option name="name" value="397bedde-f8d1-4523-ac4c-0ae8bf974602" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b6495357-4ece-4aed-bb80-f925fa8ec08d" />
+      <option name="name" value="b6495357-4ece-4aed-bb80-f925fa8ec08d" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring-plugin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="99ed8251-2463-4c63-9d27-58eeb8b6688e" />
+      <option name="name" value="99ed8251-2463-4c63-9d27-58eeb8b6688e" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="2add39f1-b081-4d56-a46d-106a166d16fd" />
+      <option name="name" value="2add39f1-b081-4d56-a46d-106a166d16fd" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ff40014b-5f5f-41e0-8167-27e772fdceba" />
+      <option name="name" value="ff40014b-5f5f-41e0-8167-27e772fdceba" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
